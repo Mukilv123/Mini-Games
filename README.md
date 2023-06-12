@@ -1,1 +1,2 @@
 # Mini-Games
+This project contains three mini games, which are rock-paper-scissors, guess-the-number, and madlibs. In rock-paper-scissors the user will give an input and face off aginst the computer to see who wins with an option to rematch after every game. In guess-the-number a random number will be generated between two inputs given by the user, the user will then keep guessing until they are able to guess the correct number. In madlibs the user will enter a variety of inputs of nouns, verbs, and adjectives which will then be used to write a madlibs story.
